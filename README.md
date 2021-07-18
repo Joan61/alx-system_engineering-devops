@@ -1,19 +1,20 @@
 ## Alx-system_engineering-devops
 
-#### Covers how to write and run bash scripts.
+Covers how to write and run bash scripts.
 
 ## 0x00-shell_basics
 
-#### An introduction to the shell and linux. Concepts covered include:
+An introduction to the shell and linux. Concepts covered include:
 - Navigation
 - Manipulating Files
 - Working With Commands
 - Reading Man pages
 - Keyboard shortcuts for Bash
 
+
 ## 0x01-shell_permissions
 
-#### Learning about Linux file permissions. Concepts covered include:
+Learning about Linux file permissions. Concepts covered include:
 - Representing each of the three sets of permissions (owner, group, and other) as a single digit
 - Changing permissions, owner and group of a file
 - Running a command with root privileges
