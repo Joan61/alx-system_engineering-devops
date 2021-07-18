@@ -1,2 +1,9 @@
-The user will key in the url (www.foobar.com) on the browser search bar. The domain name will be passed
-to the foobar.com
+The user will key in the url (www.foobar.com) on the browser search bar. The domain name (foobar.com) is passed to DNS server. The DNS server
+maps www.foobar.com to foobar.com of which, its ip address is 8.8.8.8 and the browser maps the url to the ip address to send http request.
+
+The brwoser(client) sends the request to the server addressed with ip address 8.8.8.8 which has the code base application server, database and web server.
+After a tcp has been acknowldeged, the webserver processes the request and sends webpages or other response to the client(brwoser).
+
+The webpage then displays the content received.
+
+https://i.imgur.com/4oNs7k6
